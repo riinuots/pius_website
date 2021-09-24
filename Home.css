@@ -33,8 +33,9 @@
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1.5rem;
   font-weight: 700;
+  background-image: none;
+  font-size: 1.5rem;
   margin: 20px auto 0;
 }
 
@@ -167,8 +168,14 @@
   }
 
   .u-section-1 .u-text-2 {
-    width: auto;
-    margin-right: 0;
-    margin-left: 10px;
+    width: 259px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 575px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 232px;
   }
 }
